@@ -1,3 +1,5 @@
+![](imu.jpg)
+
 # IMU Data
 
 ## Software
