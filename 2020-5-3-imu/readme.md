@@ -7,6 +7,8 @@
 - `read-serial.py`: python code for the computer to read serial data and store it
 - `code.py`: is the circuitpython code run on the trinket
 
+**Limitation:** CircuitPython only seems to allow 30Hz from the print command
+
 ## Hardware
 
 - [Adafruit Trinket M0](https://www.adafruit.com/product/3500) as a I2C to USB Serial interface
