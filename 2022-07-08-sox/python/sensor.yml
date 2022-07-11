@@ -1,0 +1,9 @@
+---
+LSM6DSOX: {
+    accel: [4000G, 208Hz],
+    gyro: [2000DPS, 208Hz],
+    temp: Celcius
+}
+LIS3MDL: {
+    mag: [4GAUSS, 300Hz]
+}
